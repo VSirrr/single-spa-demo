@@ -1,0 +1,15 @@
+{
+	"name": "root",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"serve": "serve -s -l 4000"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"serve": "^14.2.1"
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"name": "single-spa-demo",
+	"version": "1.0.0",
+	"description": "",
+	"type": "module",
+	"scripts": {
+		"start": "node ./scripts/start.js",
+		"postinstall": "node ./scripts/install.js"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"execa": "^8.0.1"
+	}
+}
